@@ -4,3 +4,6 @@ Random quote generator with a mobile-first design, using Ruby on Rails framework
 
 Deployed using Heroku:
 https://myapp-ian-pan.herokuapp.com/
+
+
+My first RoR project
